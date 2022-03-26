@@ -1,0 +1,10 @@
+{
+  "Name": "KonamiCheatCodeMod",
+  "Author": "Al Sweigart",
+  "Version": "0.1.0",
+  "Description": "Adds cheats initiated by secret keyboard sequences.",
+  "UniqueID": "AlSweigart.KonamiCheatCodeMod",
+  "EntryDll": "KonamiCheatCodeMod.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": []
+}

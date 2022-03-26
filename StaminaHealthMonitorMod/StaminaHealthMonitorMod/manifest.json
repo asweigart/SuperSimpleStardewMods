@@ -1,0 +1,10 @@
+{
+  "Name": "StaminaHealthMonitor",
+  "Author": "Al Sweigart",
+  "Version": "0.1.0",
+  "Description": "Logs changes to health and stamina.",
+  "UniqueID": "AlSweigart.StaminaHealthMonitor",
+  "EntryDll": "StaminaHealthMonitor.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": []
+}
